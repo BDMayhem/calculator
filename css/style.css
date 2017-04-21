@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+#screen {
+  margin: 20px auto 10px auto;
+  height: 35px;
+  max-width: 200px;
+  background-color: buttonface;
+  border: 1px solid black;
+}
+
+button {
+  height: 44px;
+  width: 44px;
+  margin: 4px 2px;
+}
+
+p {
+  padding-top: 15px;
+}
